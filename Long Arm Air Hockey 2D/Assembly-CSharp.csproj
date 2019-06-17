@@ -615,6 +615,10 @@
  <Reference Include="mscorlib">
  <HintPath>/Applications/Unity/Hub/Editor/2019.3.0a5/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/mscorlib.dll</HintPath>
  </Reference>
+ <Compile Include="Assets\Scripts\BaseBone.cs" />
+ <Compile Include="Assets\Scripts\Arm.cs" />
+ <Compile Include="Assets\Scripts\PreShoulder.cs" />
+ <Compile Include="Assets\Scripts\Shoulder.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

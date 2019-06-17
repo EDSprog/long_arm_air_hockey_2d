@@ -1,7 +1,7 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/playerMovement.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BaseBone.cs">
     <Files>
-      <File FileName="Assets/Scripts/playerMovement.cs" Line="7" Column="5" />
+      <File FileName="Assets/Scenes/BaseBone.cs" Line="16" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,7 +10,7 @@
             <Node name="Assembly-CSharp" expanded="True">
               <Node name="Assets" expanded="True">
                 <Node name="Scripts" expanded="True">
-                  <Node name="playerMovement.cs" selected="True" />
+                  <Node name="Arm.cs" selected="True" />
                 </Node>
               </Node>
             </Node>
